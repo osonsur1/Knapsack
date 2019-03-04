@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1524608317 source:f:\workspace_arena\workspace_c\algo\knapsack\dynamic\knapsack_dynamic\main.c
+	<stdio.h>
+	<math.h>
+

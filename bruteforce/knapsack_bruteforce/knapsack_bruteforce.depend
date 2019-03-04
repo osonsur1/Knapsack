@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1524606259 source:f:\workspace_arena\workspace_c\algo\knapsack\bruteforce\knapsack_bruteforce\main.c
+	<stdio.h>
+	<math.h>
+
